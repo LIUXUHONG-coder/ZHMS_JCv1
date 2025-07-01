@@ -1,6 +1,11 @@
 # 智慧餐厅管理系统
 
 这是一个基于Web的智慧餐厅管理系统，采用B/S架构。
+![设计图1](https://github.com/user-attachments/assets/303671c7-007d-4d55-9eb7-1eb3ea927f4c)
+![设计图2](https://github.com/user-attachments/assets/9a24aba8-c19f-4632-9e5b-06449ed28880)
+![设计图3](https://github.com/user-attachments/assets/f575f335-0e2a-487f-87ef-53d7700beee9)
+![设计图4](https://github.com/user-attachments/assets/d9496977-e656-4d3f-a744-4fc7eb957607)
+![设计图5](https://github.com/user-attachments/assets/b775d12a-2635-4527-adf9-605e2ae6ebeb)
 
 ## 技术栈
 
