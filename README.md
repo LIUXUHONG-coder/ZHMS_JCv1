@@ -2,13 +2,14 @@
 
 这是一个基于Web的智慧餐厅管理系统，采用B/S架构。
 <img width="2788" height="1472" alt="image" src="https://github.com/user-attachments/assets/53dfc71e-6f33-42a9-b390-58aa4132644a" />
+<img width="1104" height="583" alt="image" src="https://github.com/user-attachments/assets/65645296-debd-4803-bcb5-94229651a1d1" />
 ![设计图2](https://github.com/user-attachments/assets/9a24aba8-c19f-4632-9e5b-06449ed28880)
 ![设计图3](https://github.com/user-attachments/assets/f575f335-0e2a-487f-87ef-53d7700beee9)
 ![设计图4](https://github.com/user-attachments/assets/d9496977-e656-4d3f-a744-4fc7eb957607)
 ![设计图5](https://github.com/user-attachments/assets/b775d12a-2635-4527-adf9-605e2ae6ebeb)
 
 ## 后期优化
-调用AI助手组件，实现AI回复用户问题。
+调用AI助手组件和AI助手悬浮，实现AI回复用户问题。
 
 ## 技术栈
 
@@ -89,4 +90,5 @@ restaurant-management-system/
 2. 在templates目录中创建新的HTML模板
 3. 根据需要，在static目录中添加CSS和JavaScript文件
 4. 如需新的数据表，在数据库初始化函数中添加相应的表结构 
+
 
