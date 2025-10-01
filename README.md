@@ -1,6 +1,6 @@
 # 智慧餐厅管理系统
 
-这是一个基于Web的智慧餐厅管理系统，采用B/S架构。
+这是一个基于Web的智慧餐厅管理系统，采用B/S架构。（注：上述文件目录非完整版，完整版需访问其他仓库）
 <img width="2788" height="1472" alt="image" src="https://github.com/user-attachments/assets/53dfc71e-6f33-42a9-b390-58aa4132644a" />
 <img width="1104" height="583" alt="image" src="https://github.com/user-attachments/assets/65645296-debd-4803-bcb5-94229651a1d1" />
 ![设计图2](https://github.com/user-attachments/assets/9a24aba8-c19f-4632-9e5b-06449ed28880)
@@ -90,5 +90,6 @@ restaurant-management-system/
 2. 在templates目录中创建新的HTML模板
 3. 根据需要，在static目录中添加CSS和JavaScript文件
 4. 如需新的数据表，在数据库初始化函数中添加相应的表结构 
+
 
 
